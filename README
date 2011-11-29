@@ -1,0 +1,6 @@
+/**
+ * CheckAll v1.0 jQuery Plugin
+ * 
+ * 1) check/uncheck all checkboxes within a fieldset when "checkall" checkbox is checked/unchecked
+ * 2) check/uncheck 'checkall' checkbox when all checkboxes within a fieldset are checked/unchecked
+ */
